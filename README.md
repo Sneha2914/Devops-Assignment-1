@@ -1,1 +1,1 @@
-# Devops-1
+# Devops-1 Solving Merge Conflicts
