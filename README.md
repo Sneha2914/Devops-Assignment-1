@@ -1,1 +1,1 @@
-# Devops-Assignment-1 Solving Merge Conflicts
+# Devops-1 Solving Merge Conflicts
